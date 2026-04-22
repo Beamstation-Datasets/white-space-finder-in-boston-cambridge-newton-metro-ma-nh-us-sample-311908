@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3679f4ae-d096-4a6f-95a1-a77b005dd602",
+  "export_job_id": "59590802-9db7-4328-97d1-7ff024739760",
   "id_short": 311908,
-  "published_at": "2026-04-18T07:50:24Z",
+  "published_at": "2026-04-22T07:20:51Z",
   "repo_name": "white-space-finder-in-boston-cambridge-newton-metro-ma-nh-us-sample-311908",
   "sample_asset_name": "beamstation_311908_food_and_drink-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/311908/beamstation_311908_food_and_drink-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "51aaa67c41198b46a41881bf62fc956867f4b02e25ebeeb49041e8203d44e185",
-  "sample_size_bytes": 23659,
-  "total_records": 25
+  "sample_sha256": "aa7ddc2e2ee041c2f616312b43b1b38e54dd507d9ad97fbd5d40c3271fff2dd0",
+  "sample_size_bytes": 23834,
+  "total_records": 20
 }
