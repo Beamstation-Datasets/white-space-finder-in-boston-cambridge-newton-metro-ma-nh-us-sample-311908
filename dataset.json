@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Boston-Cambridge-Newton, MA-NH that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Boston-Cambridge-Newton (Metro), MA-NH, US",
-  "export_job_id": "59590802-9db7-4328-97d1-7ff024739760",
+  "export_job_id": "0c729ae3-991c-4297-bfe0-ee16939e52b0",
   "github_org": "Beamstation-Datasets",
   "id_short": 311908,
   "location_name": "Boston-Cambridge-Newton, MA-NH",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-boston-cambridge-newton-metro-ma-nh-us-sample-311908",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/311908/beamstation_311908_food_and_drink-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 7.69,
   "sample_records": 2,
-  "sample_sha256": "aa7ddc2e2ee041c2f616312b43b1b38e54dd507d9ad97fbd5d40c3271fff2dd0",
-  "sample_size_bytes": 23834,
-  "total_records": 20,
-  "updated_at": "2026-04-22T02:36:07.767549+00:00"
+  "sample_sha256": "4ad3456f8546cef58acadbe2209074ec48b7995a0ddc1f801604c87808ebddc9",
+  "sample_size_bytes": 23344,
+  "total_records": 26,
+  "updated_at": "2026-04-29T05:35:18.865744+00:00"
 }
