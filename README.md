@@ -9,9 +9,9 @@
 | Dataset ID | `311908` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 20 records |
-| Free sample size | 2 records (10.0%) |
-| Last export | 2026-04-22T02:36:07.767549+00:00 |
+| Full dataset size | 26 records |
+| Free sample size | 2 records (7.69%) |
+| Last export | 2026-04-29T05:35:18.865744+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-boston-cambridge-newton-metro-ma-nh-us-sample-311908/releases/download/sample-latest/beamstation_311908_food_and_drink-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
